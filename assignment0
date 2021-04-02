@@ -1,0 +1,8 @@
+Five data structures/algorithm I found to be interesting and why:
+1- Stacks: They are used to impliment function calls so they are very important
+2- Arrays: Arrays can hold items of the same exact data type. For exmple an array could hold integers and it would be called an array of integers.
+3- Quick sort: It is interesting because it divides arrays, seems simple but it can prove quite useful.
+4- Queues: Used to implement queueing systems which is very useful.
+5- Linked lists: it is consists of three operations, searching, inserting and deleting.
+
+Website used to research: https://towardsdatascience.com/8-common-data-structures-every-programmer-must-know-171acf6a1a42
