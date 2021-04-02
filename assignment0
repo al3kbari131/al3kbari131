@@ -1,4 +1,4 @@
-Five data structures/algorithm I found to be interesting and why:
+Five data structures/algorithms I found to be interesting and why:
 1- Stacks: They are used to impliment function calls so they are very important
 2- Arrays: Arrays can hold items of the same exact data type. For exmple an array could hold integers and it would be called an array of integers.
 3- Quick sort: It is interesting because it divides arrays, seems simple but it can prove quite useful.
